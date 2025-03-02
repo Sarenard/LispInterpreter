@@ -1,0 +1,3 @@
+class LispObject:
+    def __init__(self):
+        ...
